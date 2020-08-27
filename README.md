@@ -37,7 +37,8 @@
   <summary>:zap: Github Stats</summary>
 
 
-  <img align="left" alt="zacikmareek's Github Stats" src="https://github-readme-stats.zacikmareek.vercel.app/api?username=zacikmareek&show_icons=true&hide_border=true" />
+  <img align="left" alt="zacikmareek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zacikmareek&show_icons=true&theme=radical&hide_border=true" />
+  
 
 </details>
 
