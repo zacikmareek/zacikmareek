@@ -8,12 +8,10 @@
 - 🥅 2020 Goals: Survive! 🤣 Get better in programming 
 - ⚡ Fun fact: I love to workout and drive in my car
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
-[<img align="left" alt="zacikmareek" width="22px" src="https://www.facebook.com/marekzacik" />][Facebook]
+[<img align="left" alt="zacikmareek" width="22px" src="https://image.flaticon.com/icons/svg/124/124010.svg" />][Facebook]
 [<img align="left" alt="zacikmareek | LinkedIn" width="22px" src="www.linkedin.com/in/zacikmareek" />][linkedin]
 [<img align="left" alt="zacikmareek | Instagram" width="22px" src="https://www.instagram.com/zarek_macik/" />][instagram]
 
@@ -36,3 +34,7 @@
 <br />
 
 ---
+
+[Facebook]: https://www.facebook.com/marekzacik
+[instagram]: https://www.instagram.com/zarek_macik/
+[linkedin]: www.linkedin.com/in/zacikmareek
