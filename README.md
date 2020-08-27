@@ -8,7 +8,6 @@
 - 🥅 2020 Goals: Survive! 🤣 Get better in programming 
 - ⚡ Fun fact: I love to workout and drive in my car
 
-
 ### Connect with me:
 
 [<img align="left" alt="zacikmareek" width="22px" src="https://image.flaticon.com/icons/svg/124/124010.svg" />][Facebook]
