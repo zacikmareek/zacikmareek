@@ -33,8 +33,13 @@
 <br />
 
 ---
+<details>
+  <summary>:zap: Github Stats</summary>
+
 
   <img align="left" alt="zacikmareek's Github Stats" src="https://github-readme-stats.zacikmareek.vercel.app/api?username=zacikmareek&show_icons=true&hide_border=true" />
+
+</details>
 
 [Facebook]: https://www.facebook.com/marekzacik
 [instagram]: https://www.instagram.com/zarek_macik/
