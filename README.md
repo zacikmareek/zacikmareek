@@ -36,7 +36,7 @@
 
 [Facebook]: https://www.facebook.com/marekzacik
 [instagram]: https://www.instagram.com/zarek_macik/
-[linkedin]: www.linkedin.com/in/zacikmareek
+[linkedin]: https://www.linkedin.com/in/zacikmareek
 [VSCode]: https://code.visualstudio.com/
 [HTML]: https://en.wikipedia.org/wiki/HTML
 [CSS]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets
