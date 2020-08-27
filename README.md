@@ -34,6 +34,8 @@
 
 ---
 
+  <img align="left" alt="zacikmareek's Github Stats" src="https://github-readme-stats.zacikmareek.vercel.app/api?username=zacikmareek&show_icons=true&hide_border=true" />
+
 [Facebook]: https://www.facebook.com/marekzacik
 [instagram]: https://www.instagram.com/zarek_macik/
 [linkedin]: https://www.linkedin.com/in/zacikmareek
