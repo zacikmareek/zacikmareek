@@ -2,7 +2,7 @@
 
 ## I'm a Student, I'm working and I'm learning!
 
-- 🔭 I’m currently working on a Java app!
+- 🔭 Getting better at C# and Unity. Working on my first Unity Game. 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to get my first dev job
 - 🥅 2020 Goals: Survive! 🤣 Get better in programming 
