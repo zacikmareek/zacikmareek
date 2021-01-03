@@ -2,10 +2,10 @@
 
 ## I'm a Student, I'm working and I'm learning!
 
-- 🔭 Getting better at C# and Unity. Working on my first Unity Game. 
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Getting better at Unity. Working on my first Unity Game. 
+- 🌱 I’m currently learning Unity.
 - 👯 I’m looking to get my first dev job
-- 🥅 2020 Goals: Survive! 🤣 Get better in programming 
+- 🥅 2021 Goals: Get better in gameDev and find first job.
 - ⚡ Fun fact: I love to workout and drive in my car
 
 ### Connect with me:
