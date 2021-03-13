@@ -2,11 +2,11 @@
 
 ## I'm a Student, I'm working and I'm learning!
 
-- 🔭 Getting better at Unity. Working on my first Unity Game. 
-- 🌱 I’m currently learning Unity.
-- 👯 I’m looking to get my first dev job
-- 🥅 2021 Goals: Get better in gameDev and find first job.
-- ⚡ Fun fact: I love to workout and drive in my car
+- 🔭 Getting better at Web development. Working on my personal portfolio SPA. 
+- 🌱 I’m currently learning Vue.js/React.js.
+- 👯 I’m looking to get my first dev job.
+- 🥅 2021 Goals: Learn Neural Networks.
+- ⚡ Fun fact: I hate PHP 😬
 
 ### Connect with me:
 
@@ -27,6 +27,10 @@
 [<img align="left" alt="Unity" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" />][Unity]
 [<img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />][C#]
 [<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][Python]
+[<img align="left" alt="Vue.js" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fvue-js-logo&psig=AOvVaw0YPYqsMn5M5-JxCn2GdrYr&ust=1615711866683000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMin0_HxrO8CFQAAAAAdAAAAABAJ" />][Vue.js]
+[<img align="left" alt="React.js" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" />][React.js]
+[<img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/php-2038871-1720084.png" />][PHP]
+[<img align="left" alt="Laravel" width="26px" src="https://turreta.com/wp-content/uploads/2018/10/laravel-logo.png" />][Laravel]
 
 
 <br />
@@ -54,3 +58,7 @@
 [Unity]: https://unity.com/
 [C#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [Python]: https://www.python.org/
+[Vue.js]: https://vuejs.org
+[React.js]: https://reactjs.org
+[PHP]: https://www.php.net
+[Laravel]: https://laravel.com
