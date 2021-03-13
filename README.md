@@ -27,10 +27,10 @@
 [<img align="left" alt="Unity" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" />][Unity]
 [<img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />][C#]
 [<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][Python]
-[<img align="left" alt="Vue.js" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fvue-js-logo&psig=AOvVaw0YPYqsMn5M5-JxCn2GdrYr&ust=1615711866683000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMin0_HxrO8CFQAAAAAdAAAAABAJ" />][Vue.js]
-[<img align="left" alt="React.js" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png" />][React.js]
+[<img align="left" alt="Vue.js" width="26px" src="https://img.icons8.com/color/48/000000/vue-js.png" />][Vue.js]
+[<img align="left" alt="React.js" width="26px" src="https://img.icons8.com/bubbles/50/000000/react.png" />][React.js]
 [<img align="left" alt="PHP" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/php-2038871-1720084.png" />][PHP]
-[<img align="left" alt="Laravel" width="26px" src="https://turreta.com/wp-content/uploads/2018/10/laravel-logo.png" />][Laravel]
+[<img align="left" alt="Laravel" width="26px" src="https://img.icons8.com/fluent/48/000000/laravel.png" />][Laravel]
 
 
 <br />
